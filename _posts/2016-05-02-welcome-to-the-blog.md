@@ -1,8 +1,14 @@
 ---
-layout: post
+layout: inner
 title:  "Welcome to the Blog"
 date:   2016-05-02 20:38:06 -0500
 categories: blog drupal n00b-guide
+tags: drupal jekyll blog
+featured_image: 'https://github.com/cleverington/n00b-drupal-development/blob/master/images/drupal-logos/druplicon-logos/druplicon-small.png'
+project_link: 'https://cleverington.gitbooks.io/n00b-drupal-development/content/index.html'
+button_icon: 'drupal'
+button_text: 'Visit the n00b's guide to Drupal'
+lead_text: 'A book about Drupal'
 ---
 Yes, its a blog.
 

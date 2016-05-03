@@ -1,14 +1,17 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
+title: "Howdy. You've found the home of Charles Leverington."
+description: "As a Texan, I am told (often) I pretty much have to start with Howdy. Also, no, we do not check our horses at the border.
+My name, as you might have guessed, is Charles Leverington (aka: Pedran or cleverington).
+I am a near-Fanatical Drupalist, (Self-Declared) Philosopher, Web Efficiency Designer, Aspiring Author, Think-tank, and Quality Specialist. I have worked for over a decade in both Quality Assurance and Online Development. I also has experience with design and customer module development in Drupal 6, Drupal 7, Drupal Gardens, and (soon) Drupal 8. To date, I have been a Contributor or Developer for three published websites and one Full-Stack Drupal design and deployment for a project-wide Intranet.
+I have written various fiction short stories, novellas, and even a couple of novels over the last decade and published a few in-progress fan fiction works on FanFiction.net (aka: Pedran )."
+url: 'http://cleverington.github.io/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 Jami Gibbs'
-twitter: 'jamigibbs'
-github: 'jamigibbs'
-medium: 'blog.jamigibbs.com'
+footer_text: '© 2016 Charles Leverington'
+twitter: 'c_leverington'
+github: 'cleverington'
+medium: 'https://cleverington.gitbooks.io/n00b-drupal-development/content/index.html'
 
 # Admin Settings
-admin_name: 'Jami Gibbs'
-admin_email: 'jami0821@gmail.com'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+admin_name: 'Chareles Leverington'
+admin_email: 'charles.leverington@gmail.com'
+# google_analytics: "UA-9999999-99" # Update with your own tracking ID

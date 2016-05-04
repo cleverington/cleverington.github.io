@@ -8,11 +8,11 @@ categories: blog jekyll learning gitpages
 ## Jekyll Is Pretty Awesome
 Okay, so a little testing with Jekyll has taught me a few things......
 
-1 Making an independent theme for a subproject (aka: generating CSS separarte from my current theme): **Difficult**
-2 Customizing the basic Jekyll-baked theme: **Intermediate**
-3 Adding new posts: **Super-Easy**
-4 Learning the *kramdown* version of *Markdown*: **Haven't bothered**
-5 I like ice cream
+* 1 Making an independent theme for a subproject (aka: generating CSS separarte from my current theme): **Difficult**
+* 2 Customizing the basic Jekyll-baked theme: **Intermediate**
+* 3 Adding new posts: **Super-Easy**
+* 4 Learning the *kramdown* version of *Markdown*: **Haven't bothered**
+* 5 I like ice cream
 
 Nope, I'm lying. I already knew I liked ice cream.
 

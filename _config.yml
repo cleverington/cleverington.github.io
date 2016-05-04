@@ -9,10 +9,9 @@
 title: Charles Leverington
 email: charles.leverington@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  If it can be written, it is known.
-  If it is known, it is reproducible.
-  If it can be complicated, someone will do so.
-  If it isn't documented, it doesn't exist.
+  * If it can be written, it is known.
+  * If it is known, it is reproducible.
+  * If it isn't documented, it doesn't exist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cleverington.github.io/" # the base hostname & protocol for your site
 twitter_username: c_leverington

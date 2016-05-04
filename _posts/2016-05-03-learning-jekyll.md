@@ -36,7 +36,7 @@ That's not to say that the n00b's Guide will change fundamentally. With the oppo
   |_ 7.x-0.x-dev_osx
   |_ 7.x-0.x-dev_linux
 ```
-... and include all three opperating systems.
+... and include all three operating systems.
 
 I will need to decide at a later date if that is a viable route, becuase, with only a little thought on the topic, this is an *extremely* ambitious endeavor which can end very badly.
 

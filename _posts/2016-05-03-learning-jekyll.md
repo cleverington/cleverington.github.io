@@ -57,7 +57,8 @@ For example, Phase2's new project [DevTools](http://phase2.github.io/devtools/ "
 If there's a mistake, let me know.
 If I can make it better, let me know.
 
-Thoughts, recommendations, good recipes for cooking pumpkin:
-* [Twitter | @c_leverington](https://twitter.com/c_leverington "Twitter: @c_leverington")
-* [github | cleverington](https://github.com/cleverington/n00b-drupal-development "n00b's Guide on GitHub")
-* [d.o | cleverington](https://www.drupal.org/u/cleverington "drupal.org/u/cleverington")
+#### Thoughts, recommendations, good recipes for cooking pumpkin:
+
+[Twitter | @c_leverington](https://twitter.com/c_leverington)
+[github | cleverington](https://github.com/cleverington/n00b-drupal-development)
+[d.o | cleverington](https://www.drupal.org/u/cleverington)

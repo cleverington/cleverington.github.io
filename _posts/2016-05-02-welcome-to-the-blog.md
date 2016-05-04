@@ -28,6 +28,13 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
+### Look me up
+
+> "No man is an island." ~ John Donne \(1624\)
+
+If there's a mistake, let me know.
+If I can make it better, let me know.
+
 #### Thoughts, recommendations, good recipes for cooking pumpkin:
 
 [Twitter - @c_leverington](https://twitter.com/c_leverington)

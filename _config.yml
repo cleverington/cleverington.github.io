@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   If it is known, it is reproducible.
   If it can be complicated, someone will do so.
   If it isn't documented, it doesn't exist.
-baseurl: "/n00b-drupal-development" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cleverington.github.io/" # the base hostname & protocol for your site
 twitter_username: c_leverington
 github_username:  cleverington

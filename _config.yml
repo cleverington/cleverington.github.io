@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: n00b's Guide to Drupal, Development, and Everything
+email: charles.leverington@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  There's a lot of writing and general content that needs to be written.
+  Some of the content goes well in the n00b's guide, some of it doesn't.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cleverington.github.io/n00b-drupal-development/" # the base hostname & protocol for your site
+twitter_username: c_leverington
+github_username:  cleverington
+
+# Build settings
+markdown: kramdown

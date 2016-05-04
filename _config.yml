@@ -6,13 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: n00b's Guide to Drupal, Development, and Everything
+title: Charles Leverington
 email: charles.leverington@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  There's a lot of writing and general content that needs to be written.
-  Some of the content goes well in the n00b's guide, some of it doesn't.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cleverington.github.io/n00b-drupal-development/" # the base hostname & protocol for your site
+  If it can be written, it is known.
+  If it is known, it is reproducible.
+  If it can be complicated, someone will do so.
+  If it isn't documented, it doesn't exist.
+baseurl: "/n00b-drupal-development" # the subpath of your site, e.g. /blog
+url: "https://cleverington.github.io/" # the base hostname & protocol for your site
 twitter_username: c_leverington
 github_username:  cleverington
 

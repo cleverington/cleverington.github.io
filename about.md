@@ -23,6 +23,6 @@ If I can make it better, let me know.
 
 #### Thoughts, recommendations, good recipes for cooking pumpkin:
 
-[Twitter | @c_leverington](https://twitter.com/c_leverington)
-[github | cleverington](https://github.com/cleverington/n00b-drupal-development)
-[d.o | cleverington](https://www.drupal.org/u/cleverington)
+[Twitter - @c_leverington](https://twitter.com/c_leverington)
+[github - cleverington](https://github.com/cleverington/n00b-drupal-development)
+[d.o - cleverington](https://www.drupal.org/u/cleverington)

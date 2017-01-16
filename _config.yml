@@ -19,3 +19,4 @@ github_username:  cleverington
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-modernist

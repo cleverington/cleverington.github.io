@@ -8,7 +8,7 @@ categories: blog jekyll learning gitpages
 ## Jekyll Is Pretty Awesome
 Okay, so a little testing with Jekyll has taught me a few things......
 
-* 1 Making an independent theme for a subproject (aka: generating CSS separarte from my current theme): **Difficult**
+* 1 Making an independent theme for a subproject (aka: generating CSS separate from my current theme): **Difficult**
 * 2 Customizing the basic Jekyll-baked theme: **Intermediate**
 * 3 Adding new posts: **Super-Easy**
 * 4 Learning the *kramdown* version of *Markdown*: **Haven't bothered**
@@ -38,7 +38,7 @@ That's not to say that the n00b's Guide will change fundamentally. With the oppo
 ```
 ... and include all three operating systems.
 
-I will need to decide at a later date if that is a viable route, becuase, with only a little thought on the topic, this is an *extremely* ambitious endeavor which can end very badly.
+I will need to decide at a later date if that is a viable route, because, with only a little thought on the topic, this is an *extremely* ambitious endeavor which can end very badly.
 
 Along the way, however, I intend to explore different technologies that may/will allow for cross-functional Development, such as Jeff Geerling's [Drupal VM](http://www.drupalvm.com/ "Drupal VM").
 

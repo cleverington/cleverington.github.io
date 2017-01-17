@@ -24,4 +24,3 @@ theme: jekyll-theme-modernist
 
 sass:
   sass_dir: _sass
-  style: compressed

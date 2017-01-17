@@ -21,3 +21,7 @@ drupal_username: cleverington
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-modernist
+
+sass:
+  sass_dir: _sass
+  style: compressed

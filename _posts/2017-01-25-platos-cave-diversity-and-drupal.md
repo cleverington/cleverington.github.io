@@ -56,7 +56,6 @@ The answer, and the Enlightened Reader can tell my field of interest here, is in
 
 Let me give some examples of just the growth in the last few years:
 
-- In [December 2012](http://www.garfieldtech.com/blog/off-the-island-2013 "Getting off the island in 2013"), Larry Garfield (aka: crell) wrote a piece on "Getting off the island in 2013". It was a post about moving away from Drupal 6's and Drupal 7's **Drupal Way** and taking on the coveted "Proudly Made Elsewhere" mentality of other Development Communities in Drupal 8. Not inherently about DD&I... or was it? Think of how much of a positive impact using the Symfony framework as a base has made in tuning Drupal as an expansive modernized digital platform in Drupal 8? The Community **diversified** and profited.
 - May he lead well for a long time, in 2014 our Founder Dries wrote a blog post entitled (Fostering inclusivity and diversity)[http://buytaert.net/fostering-inclusivity-and-diversity "Fostering inclusivity and diversity"].
 - Last [August (2016)](http://drnikki.github.io/2016/08/03/diversity-survey.html), following her powerful Keynote at Drupal Camp Costa Rica 2016, Nikki Stevens outlined a number of Challenges faced with the initial 'Dive In' on just creating a valid, sustainable, reliable Survey on **Diversity of the Web**.
 - Jeffrey A. "jam" McGuire of Acquia [interviewed Nikki](https://dev.acquia.com/podcast/241-nothing-about-us-without-us-diversity-web-nikki-stevens "interviewed with Nikki Stevens") (following her Keynote) on the growth of Diversity in Tech, the **Diversity of the Web** survey being compiled by Nikki and [Nick Lewis](http://www.nicklewis.org/) and how the two instigators actually created a [GitHub repo](https://github.com/drupaldiversity/diversity-of-the-web) and Crowd-Sourced the Survey to make it **actually** inclusive and diverse.
@@ -69,7 +68,7 @@ Let me give some examples of just the growth in the last few years:
   * jam (noted above) wrote a very inspiring article about making a difference and realizing that the Drupal Community needs to continue moving forward on bettering ourselves as a Community (see quote below).
   * Josef Dabernig of Amazee Labs authored an equally inspired piece detailing some of the other great things which happened due to the initial oversights, such as a huge "Diversity Matters" BoF (Birds of a Feather) talk with [live notes taken](https://pad.riseup.net/p/LAWQJL6WjGD5) on that include transcription and useful references.
 
-_I apologize if I have missed any major milestones within the last two years. What is important to recognize however is the divergence from the 'island' the Drupal Community may have unintentionally been existing on previously._
+_I apologize if I have missed any major milestones within the last two years. What is important to recognize however is the divergence from the 'Cave' the Drupal Community may have unintentionally been existing on previously._
 
 ## Dancing Shadows in Drupal
 

@@ -3,10 +3,16 @@
 ---
 @charset "utf-8";
 
+// Fonts
+
+@import url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/ttf/OpenDyslexic-Bold.ttf');
+@import url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/ttf/OpenDyslexic-BoldItalic.ttf');
+@import url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/ttf/OpenDyslexic-Italic.ttf');
+@import url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/ttf/OpenDyslexic-Regular.ttf');
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "OpenDyslexic", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   1em;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;

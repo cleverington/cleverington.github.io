@@ -24,5 +24,19 @@ drupal_username: cleverington
 markdown: kramdown
 theme: jekyll-theme-modernist
 
+# SEO
+author:
+  twitter: c_leverington
+
+
 sass:
   sass_dir: _sass
+
+theme: jekyll-theme-time-machine
+
+plugins:
+  - jekyll-assets
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-seo-tag

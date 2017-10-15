@@ -3,6 +3,7 @@ layout: post
 title:  "Tweaking GitHub Pages"
 date:   2017-10-13 23:35:06
 categories: blog jekyll learning github-pages
+author: Charles Leverington
 ---
 
 # Tweaking GitHub Pages

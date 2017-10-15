@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to the Blog"
 date:   2016-05-02 20:38:06 -0500
 categories: blog drupal n00b-guide
+author: Charles Leverington
 ---
 Yes, its a blog.
 

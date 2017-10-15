@@ -3,6 +3,7 @@ layout: post
 title:  "Testing Jekyll and New Directions"
 date:   2016-05-03 19:18:06 -0500
 categories: blog jekyll learning gitpages
+author: Charles Leverington
 ---
 
 ## Jekyll Is Pretty Awesome

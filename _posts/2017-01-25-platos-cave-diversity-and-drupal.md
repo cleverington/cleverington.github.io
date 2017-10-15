@@ -3,6 +3,7 @@ layout: post
 title:  "Plato's Cave, Diversity, and Drupal"
 date:   2017-01-25 23:35:06
 categories: blog Drupal diversity philosophy
+author: Charles Leverington
 ---
 
 # Plato's Cave, Diversity, and Drupal

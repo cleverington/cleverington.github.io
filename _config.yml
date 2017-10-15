@@ -19,21 +19,15 @@ url: "https://cleverington.github.io/" # the base hostname & protocol for your s
 twitter_username: c_leverington
 github_username:  cleverington
 drupal_username: cleverington
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-modernist
-
 # SEO
-author:
-  twitter: c_leverington
-
-
+twitter:
+  username: c_leverington
 sass:
   sass_dir: _sass
-
 theme: jekyll-theme-time-machine
-
 plugins:
   - jekyll-assets
   - jekyll-feed

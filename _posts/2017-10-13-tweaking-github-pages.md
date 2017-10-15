@@ -89,6 +89,12 @@ end
 ```
 The SiteMap is pending for a future tweak, but the site started to get out there and **that** was the most important thing.
 
+#### SEO Configuration
+
+Instructions on usage of the `jekyll-seo-tag` plugin can be found here: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+
+I'll leave off actual instructions simply because each site is going to need their own configuration.
+
 ### Other Plugins
 
 See https://pages.github.com/versions/ for a list of the available Jekyll plugins available on GitHub for GitHub Pages hosted sites.
